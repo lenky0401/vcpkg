@@ -1,0 +1,11 @@
+# ninja log v5
+23	157	7558576317947035	CMakeFiles/gif.dir/gif_font.c.obj	fa8767feddd69dff
+10	163	7558576317887027	CMakeFiles/gif.dir/egif_lib.c.obj	2f314689dd6b5a66
+5	168	7558576317887027	CMakeFiles/gif.dir/dgif_lib.c.obj	36cc54494f6e34da
+14	170	7558576318127029	CMakeFiles/gif.dir/gifalloc.c.obj	b9d9f080a26a9ff
+17	217	7558576318597038	CMakeFiles/gif.dir/gif_err.c.obj	76cd99866026ff57
+163	250	7558576318937021	CMakeFiles/gif.dir/openbsd-reallocarray.c.obj	a4537a41247a3f49
+158	270	7558576319127017	CMakeFiles/gif.dir/gif_hash.c.obj	22e6e5466ce8883b
+270	618	7558576322393683	gif.dll	8c29ed6599e3710c
+270	618	7558576322393683	gif.lib	8c29ed6599e3710c
+619	670	0	CMakeFiles/install.util	978ec913832befbc

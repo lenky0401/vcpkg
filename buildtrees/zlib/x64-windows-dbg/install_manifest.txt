@@ -1,0 +1,2 @@
+D:/lenky_jpegli/vcpkg/packages/zlib_x64-windows/debug/lib/zlibd.lib
+D:/lenky_jpegli/vcpkg/packages/zlib_x64-windows/debug/bin/zlibd1.dll

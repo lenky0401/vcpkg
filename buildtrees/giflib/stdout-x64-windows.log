@@ -1,0 +1,13 @@
+Downloading giflib-5.2.2.tar.gz
+Successfully downloaded giflib-5.2.2.tar.gz.
+-- Extracting source D:/lenky_jpegli/vcpkg/downloads/giflib-5.2.2.tar.gz
+-- Applying patch msvc.diff
+-- Using source at D:/lenky_jpegli/vcpkg/buildtrees/giflib/src/giflib-5-71ecd5227a.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/lenky_jpegli/vcpkg/packages/giflib_x64-windows/share/gif/vcpkg-cmake-wrapper.cmake
+-- Installing: D:/lenky_jpegli/vcpkg/packages/giflib_x64-windows/share/giflib/usage
+-- Installing: D:/lenky_jpegli/vcpkg/packages/giflib_x64-windows/share/giflib/copyright
+-- Performing post-build validation

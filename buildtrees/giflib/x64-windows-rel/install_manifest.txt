@@ -1,0 +1,3 @@
+D:/lenky_jpegli/vcpkg/packages/giflib_x64-windows/include/gif_lib.h
+D:/lenky_jpegli/vcpkg/packages/giflib_x64-windows/lib/gif.lib
+D:/lenky_jpegli/vcpkg/packages/giflib_x64-windows/bin/gif.dll

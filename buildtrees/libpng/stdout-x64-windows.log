@@ -1,0 +1,25 @@
+Downloading glennrp-libpng-v1.6.44.tar.gz
+Successfully downloaded glennrp-libpng-v1.6.44.tar.gz.
+-- Extracting source D:/lenky_jpegli/vcpkg/downloads/glennrp-libpng-v1.6.44.tar.gz
+-- Applying patch cmake.patch
+-- Applying patch libm.patch
+-- Applying patch pkgconfig.patch
+-- Applying patch fix-msa-support-for-mips.patch
+-- Applying patch fix-tools-static.patch
+-- Using source at D:/lenky_jpegli/vcpkg/buildtrees/libpng/src/v1.6.44-58a090cbad.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/share/png/vcpkg-cmake-wrapper.cmake
+-- Installing: D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/share/libpng/libpng-config.cmake
+-- Fixing pkgconfig file: D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/lib/pkgconfig/libpng16.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst.
+-- Using msys root at D:/lenky_jpegli/vcpkg/downloads/tools/msys2/21caed2f81ec917b
+-- Fixing pkgconfig file: D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/debug/lib/pkgconfig/libpng16.pc
+-- Installing: D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/debug/lib/pkgconfig/libpng.pc
+-- Installing: D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/lib/pkgconfig/libpng.pc
+-- Installing: D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/share/libpng/usage
+-- Installing: D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/share/libpng/copyright
+-- Performing post-build validation

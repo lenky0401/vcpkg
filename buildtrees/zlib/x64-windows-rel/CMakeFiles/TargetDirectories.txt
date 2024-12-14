@@ -1,0 +1,7 @@
+D:/lenky_jpegli/vcpkg/buildtrees/zlib/x64-windows-rel/CMakeFiles/zlib.dir
+D:/lenky_jpegli/vcpkg/buildtrees/zlib/x64-windows-rel/CMakeFiles/test.dir
+D:/lenky_jpegli/vcpkg/buildtrees/zlib/x64-windows-rel/CMakeFiles/edit_cache.dir
+D:/lenky_jpegli/vcpkg/buildtrees/zlib/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+D:/lenky_jpegli/vcpkg/buildtrees/zlib/x64-windows-rel/CMakeFiles/list_install_components.dir
+D:/lenky_jpegli/vcpkg/buildtrees/zlib/x64-windows-rel/CMakeFiles/install.dir
+D:/lenky_jpegli/vcpkg/buildtrees/zlib/x64-windows-rel/CMakeFiles/install/local.dir

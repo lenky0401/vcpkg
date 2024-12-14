@@ -1,0 +1,10 @@
+prefix=D:/lenky_jpegli/vcpkg/packages/libjpeg-turbo_x64-windows/debug
+exec_prefix=D:/lenky_jpegli/vcpkg/packages/libjpeg-turbo_x64-windows/debug
+libdir=D:/lenky_jpegli/vcpkg/packages/libjpeg-turbo_x64-windows/debug/lib
+includedir=D:/lenky_jpegli/vcpkg/packages/libjpeg-turbo_x64-windows/debug/include
+
+Name: libturbojpeg
+Description: A SIMD-accelerated JPEG codec that provides the TurboJPEG API
+Version: 3.0.4
+Libs: -L${libdir} -lturbojpeg
+Cflags: -I${includedir}

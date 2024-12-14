@@ -1,0 +1,6 @@
+D:/lenky_jpegli/vcpkg/buildtrees/giflib/x64-windows-rel/CMakeFiles/gif.dir
+D:/lenky_jpegli/vcpkg/buildtrees/giflib/x64-windows-rel/CMakeFiles/edit_cache.dir
+D:/lenky_jpegli/vcpkg/buildtrees/giflib/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+D:/lenky_jpegli/vcpkg/buildtrees/giflib/x64-windows-rel/CMakeFiles/list_install_components.dir
+D:/lenky_jpegli/vcpkg/buildtrees/giflib/x64-windows-rel/CMakeFiles/install.dir
+D:/lenky_jpegli/vcpkg/buildtrees/giflib/x64-windows-rel/CMakeFiles/install/local.dir

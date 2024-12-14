@@ -1,0 +1,20 @@
+Downloading open-source-parsers-jsoncpp-1.9.6.tar.gz
+warning: Download failed -- retrying after 1000ms
+warning: Download failed -- retrying after 2000ms
+warning: Download failed -- retrying after 4000ms
+Successfully downloaded open-source-parsers-jsoncpp-1.9.6.tar.gz.
+-- Extracting source D:/lenky_jpegli/vcpkg/downloads/open-source-parsers-jsoncpp-1.9.6.tar.gz
+-- Using source at D:/lenky_jpegli/vcpkg/buildtrees/jsoncpp/src/1.9.6-29ceffc35f.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: D:/lenky_jpegli/vcpkg/packages/jsoncpp_x64-windows/lib/pkgconfig/jsoncpp.pc
+Downloading msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst
+Successfully downloaded msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst.
+Downloading msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst
+Successfully downloaded msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst.
+-- Using msys root at D:/lenky_jpegli/vcpkg/downloads/tools/msys2/21caed2f81ec917b
+-- Fixing pkgconfig file: D:/lenky_jpegli/vcpkg/packages/jsoncpp_x64-windows/debug/lib/pkgconfig/jsoncpp.pc
+-- Installing: D:/lenky_jpegli/vcpkg/packages/jsoncpp_x64-windows/share/jsoncpp/copyright
+-- Performing post-build validation

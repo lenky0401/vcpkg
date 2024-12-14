@@ -1,0 +1,10 @@
+Checking patch CMakeLists.txt...
+Hunk #9 succeeded at 1745 (offset -2 lines).
+Hunk #10 succeeded at 1759 (offset -2 lines).
+Hunk #11 succeeded at 1769 (offset -2 lines).
+Hunk #12 succeeded at 1794 (offset -2 lines).
+Hunk #13 succeeded at 1812 (offset -2 lines).
+Hunk #14 succeeded at 1837 (offset -2 lines).
+Checking patch sharedlib/CMakeLists.txt...
+Applied patch CMakeLists.txt cleanly.
+Applied patch sharedlib/CMakeLists.txt cleanly.

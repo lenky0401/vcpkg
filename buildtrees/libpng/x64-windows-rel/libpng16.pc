@@ -1,0 +1,12 @@
+prefix=D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows
+exec_prefix=D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows
+libdir=D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/lib
+includedir=D:/lenky_jpegli/vcpkg/packages/libpng_x64-windows/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.44
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: 
+Cflags: -I${includedir}
