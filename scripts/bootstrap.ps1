@@ -49,19 +49,9 @@ Write-Verbose "Examining $vcpkgRootDir for .vcpkg-root - Found"
 $Config = ConvertFrom-StringData (Get-Content "$PSScriptRoot\vcpkg-tool-metadata.txt" -Raw)
 $versionDate = $Config.VCPKG_TOOL_RELEASE_TAG
 
-if ($env:PROCESSOR_ARCHITECTURE -eq 'ARM64' -or $env:PROCESSOR_IDENTIFIER -match "ARMv[8,9] \(64-bit\)") {
-    & "$scriptsDir/tls12-download-arm64.exe" github.com "/microsoft/vcpkg-tool/releases/download/$versionDate/vcpkg-arm64.exe" "$vcpkgRootDir\vcpkg.exe"
-} else {
-    & "$scriptsDir/tls12-download.exe" github.com "/microsoft/vcpkg-tool/releases/download/$versionDate/vcpkg.exe" "$vcpkgRootDir\vcpkg.exe"
-}
 
 Write-Host ""
 
-if ($LASTEXITCODE -ne 0)
-{
-    Write-Error "Downloading vcpkg.exe failed. Please check your internet connection, or consider downloading a recent vcpkg.exe from https://github.com/microsoft/vcpkg-tool with a browser."
-    throw
-}
 
 & "$vcpkgRootDir\vcpkg.exe" version --disable-metrics
 
